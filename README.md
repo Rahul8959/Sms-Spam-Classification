@@ -72,6 +72,6 @@ For detailed evaluation metrics and analysis, refer to the Jupyter Notebook.
 ```
 2. Install dependencies:
 ```bash
-    git clone https://github.com/Rahul8959/Covid19_Tracker.git
+    pip install -r Requirements.txt
 ```
 3. Run the Jupyter Notebook `sms_spam_classification.ipynb` to reproduce the project.
