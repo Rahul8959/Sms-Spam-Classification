@@ -9,9 +9,3 @@ wordcloud==1.8.1
 plotly==5.3.1
 xgboost==1.5.0
 scipy==1.7.1
-
-# Library for text processing
-nltk_data==1.0.2
-
-# Library for interacting with GitHub API
-PyGithub==1.55
